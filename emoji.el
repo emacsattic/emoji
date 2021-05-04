@@ -1,4 +1,4 @@
-;;; emoji.el - show emoji on Emacs, complete emoji with anythig.
+;;; emoji.el --- Show emoji on Emacs, complete emoji with anythig
 
 ;; Copyright (c) 2009 by KAYAC Inc.
 
